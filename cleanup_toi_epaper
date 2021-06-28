@@ -1,0 +1,1 @@
+javascript:!function(){document.getElementById('restHeightContainer').style.top='0'; document.getElementById('toolbar').remove(); [].forEach.call(document.getElementsByClassName('banner_popup'),function(el){el.remove()}); [].forEach.call(document.getElementsByClassName('epaper'),function(el){el.remove()});}();
